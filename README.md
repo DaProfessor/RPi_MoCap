@@ -1,5 +1,5 @@
 # RPi_MoCap
-This repository contains files relating to the development of a low-cost motion capture using the Raspberry Pi range of computers. <br /> This work is being conducted as part of the Graphics & Interactive Techniques Research Group at **Western Connecticut State University (WCSU)**. 
+This repository contains files relating to the development of a low-cost motion capture using the Raspberry Pi range of computers. <br /> This work is being conducted as part of the Graphics & Interactive Techniques Research Group at **Western Connecticut State University (WCSU)** (https://www.wcsu.edu/cs/computer-science-research/computer-science-grg/). 
 
 ## Team Members
 
